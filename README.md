@@ -4,8 +4,7 @@ N3MSIS CRAFTINGPACK REDUX
 -------------
 https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
 -------------
-	Legal:
--------------
+
 Mod is delivered "as is". No guarantees for compatibility with other Mods.
 And no 24/7 support, I´m a working man and this is just a hobby.
 
