@@ -2,7 +2,7 @@
 N3MSIS CRAFTINGPACK REDUX
 
 -------------
-	Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
+https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
 -------------
 	Legal:
 -------------
