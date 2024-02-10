@@ -1,12 +1,8 @@
-=========================
-N3MSIS CRAFTINGPACK REDUX
-=========================
--------------
-	Link:
--------------
-Nemsis Craftingpack Redux Core:
-https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
 
+N3MSIS CRAFTINGPACK REDUX
+
+-------------
+	Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
 -------------
 	Legal:
 -------------
