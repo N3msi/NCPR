@@ -12,8 +12,9 @@ Repacking in a servermod is allowed, but not recommended. You will miss updates 
 Leave a comment and give Credits if you do. Please also respect the Licences from the contributers below. 
 Info: 
 
- https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
- https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
+ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
+ 
+ Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
 Contributers:
 - Montanaburbur for his/her Model of a Helmet (no link available anymore) - RFL
