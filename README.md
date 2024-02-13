@@ -16,6 +16,14 @@ Info:
  
  Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+Special thanks:
+
+- the Guys from the DayZ Modding Community for theire tutorials, help and Codesnippets, espacially CashewSan, Munghard, Zenarchist and Wardog ♥
+- The Sammelbecken DayZ Community for testing and running this on theire live servers, espacially https://www.youtube.com/@Physio0104]PhYsiO[/url] and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
+- DaemonForge and Dumpgrahs for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2860838523&searchtext=color+weapons] Reskin Manger - Weapons Editon[/url]
+- Room Service for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754] Code Lock [/url] and letting me use some of his Code.
+
+  
 Contributers:
 - Montanaburbur for his/her Model of a Helmet (no link available anymore) - RFL
 - nowelbesi for his/her Model of a Skeleton (no link available anymore) - RFL
@@ -41,5 +49,3 @@ Contributers:
 - The Lost Sock https://sketchfab.com/3d-models/edding-300-marker-1e5e44cb34b94087b051ea3b6c2f9767 - CCA
 - Shedmon https://sketchfab.com/3d-models/mask-724a39fedf834c83be2b1c29509914ba - CCA
 - Sousinho https://sketchfab.com/3d-models/military-duffel-bag-d69478f0c5334e189e98f99e84bbe3e6 - CCA
-- the Guys from the DayZ Modding Community for theire tutorials, help and Codesnippets, espacially CashewSan, Munghard, Zenarchist and Wardog ♥
-- The Sammelbecken DayZ Community for testing and running this on theire live servers, espacially https://www.youtube.com/@Physio0104]PhYsiO[/url] and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
