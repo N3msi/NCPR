@@ -2,7 +2,7 @@
 	<!--NCPR Core-->
 	<type name="nm_Notebook">
 		<nominal>35</nominal>
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
 		<min>15</min>
 		<quantmin>50</quantmin>
@@ -49,6 +49,8 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
 	</type>
 	<type name="nm_Molotow">
 		<nominal>1</nominal>
@@ -63,10 +65,12 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
 	</type>
 	<type name="nm_Cullet">
 		<nominal>40</nominal>
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
 		<min>30</min>
 		<quantmin>30</quantmin>
@@ -81,12 +85,196 @@
 		<usage name="Town"/>
 	</type>
 	<type name="nm_Culletknife">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
+    <type name="nm_CamoNet_deployed">
+        <lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="nm_Fabric_deployed">
+        <lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="nm_CourierBag_Tarp">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Cow">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Pig">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Deer">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Goat">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Bear">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Wolf">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_CourierBag_Sheep">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Tarp">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Cow">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Pig">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Deer">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Goat">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Bear">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Wolf">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Sheep">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
 	<type name="nm_Airbrushkit">
 		<nominal>35</nominal>
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
 		<min>15</min>
 		<quantmin>50</quantmin>
@@ -226,67 +414,67 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieBushrag_Snow">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieTop_Snow">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieSuit_Snow">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieHood_Snow">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieAtt_Snow">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieBushrag_Dark">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieTop_Dark">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieSuit_Dark">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieHood_Dark">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieAtt_Dark">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieTop_CamoNet">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieHood_CamoNet">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieAtt_CamoNet">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieTop_Plant">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieHood_Plant">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_GhillieAtt_Plant">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<!--NCPR Ammopacking-->
@@ -300,9 +488,9 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Town"/>
-		<usage name="Village"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
 	</type>
 	<!--NCPR Armors-->
 	<type name="nm_Sketch_raider">
@@ -342,43 +530,43 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_HeavyMich2001_od">
-		<lifetime>28800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="nm_HeavyPlatec_tan">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_HeavyPlatec_od">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_HeavyPlatec_blk">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_HeavyPlatec_camo">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Raider_vest_base">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Raider_Helmet_base">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Raider_Legprotectors_base">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Raider_Armprotectors_Base">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Armorkit">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<!--NCPR Bushcrafting-->
@@ -392,8 +580,7 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Town"/>
+        <usage name="Hunting"/>
 		<usage name="Village"/>
 	</type>
 	<type name="nm_Sketch_bc2">
@@ -406,8 +593,20 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
-		<usage name="Industrial"/>
-		<usage name="Town"/>
+        <usage name="Hunting"/>
+		<usage name="Village"/>
+	</type>
+	<type name="nm_Sketch_bc3">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+        <usage name="Hunting"/>
 		<usage name="Village"/>
 	</type>
 	<type name="nm_Ammo_Pebble">
@@ -454,6 +653,10 @@
 		<lifetime>5600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
+	<type name="nm_Gerbpaste">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
 	<type name="nm_Bushcraftkit">
 		<lifetime>5600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -471,11 +674,11 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Shovel_Bone">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Hatchet_bone">
-		<lifetime>5600</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Slingshot">
@@ -497,6 +700,39 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
+    <type name="nm_HumanSkin">
+        <nominal>0</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="tools"/>
+    </type>
+    <type name="nm_CourierBag_Human">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
+    <type name="nm_Improbag_Human">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+    </type>
 	<type name="nm_playerhead_f_baty">
 		<lifetime>5600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -634,11 +870,11 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_HumanRemains">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_SkullHood">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<!--NCPR ImproNBC-->
@@ -833,6 +1069,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="containers"/>
 	</type>
+	<type name="nm_Firebowl">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="containers"/>
+	</type>
 	<type name="nm_SledgeHammer_Rust">
 		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
@@ -865,6 +1112,10 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
+	<type name="nm_Hatchet_rust_folded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
 	<type name="nm_ScrapMask">
 		<nominal>1</nominal>
 		<lifetime>14400</lifetime>
@@ -879,11 +1130,11 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
-	<type name="nm_FieldShovel_Rust">
-		<nominal>5</nominal>
+	<type name="nm_FieldShovel_Rust_folded">
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -892,6 +1143,10 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+	</type>
+	<type name="nm_FieldShovel_Rust">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Carchest">
         <nominal>0</nominal>
@@ -1697,6 +1952,20 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
+	<type name="nm_Epping">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+	</type>
 	<type name="nm_Letter">
 		<nominal>1</nominal>
 		<lifetime>3888000</lifetime>
@@ -1727,27 +1996,27 @@
 	</type>
 	<!--NCPR Medical-->
 	<type name="nm_ScrapSplint">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Box_Spinalcord">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Box_Shrooms">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Box_Charcoal">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Box_Antibiotics">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Box_Spinalcord">
-		<lifetime>1800</lifetime>
+		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_Sketch_herbs1">
@@ -1763,6 +2032,7 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Hunting"/>
 	</type>
 	<type name="nm_Sketch_herbs2">
 		<nominal>2</nominal>
@@ -1777,6 +2047,7 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Hunting"/>
 	</type>
 	<type name="nm_Sketch_herbs3">
 		<nominal>2</nominal>
@@ -1791,6 +2062,7 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Hunting"/>
 	</type>
 	<type name="nm_Sketch_splint">
 		<nominal>2</nominal>
@@ -1819,6 +2091,7 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Hunting"/>
 	</type>
 	<type name="nm_Sketch_antibio">
 		<nominal>2</nominal>
@@ -1848,5 +2121,7 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
 	</type>
 <!--Nemsis Craftingpack Redux end-->
