@@ -2,7 +2,7 @@
 N3MSIS CRAFTINGPACK REDUX
 
 -------------
-https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
+Link to mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
 -------------
 
 Mod is delivered "as is". No guarantees for compatibility with other Mods.
@@ -12,19 +12,20 @@ Repacking in a servermod is allowed, but not recommended. You will miss updates 
 Leave a comment and give Credits if you do. Please also respect the Licences from the contributers below. 
 Info: 
 
- Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
- 
- Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
+
 
 Special thanks:
 
 - the Guys from the DayZ Modding Community for theire tutorials, help and Codesnippets, espacially CashewSan, Munghard, Zenarchist and Wardog ♥
-- The Sammelbecken DayZ Community for testing and running this on theire live servers, espacially https://www.youtube.com/@Physio0104]PhYsiO[/url] and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
-- DaemonForge and Dumpgrahs for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2860838523&searchtext=color+weapons] Reskin Manger - Weapons Editon[/url]
-- Room Service for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754] Code Lock [/url] and letting me use some of his Code.
+- The Sammelbecken DayZ Community for testing and running this on theire live servers, espacially PhYsiO and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
+- DaemonForge and Dumpgrahs for Reskin Manger - Weapons Editon ( https://steamcommunity.com/sharedfiles/filedetails/?id=2860838523&searchtext=color+weapons )
+- Room Service for Code Lock ( https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754 ) and letting me use some of his Code.
 
   
 Contributers:
+ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
+  Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
+ 
 - Montanaburbur for his/her Model of a Helmet (no link available anymore) - RFL
 - nowelbesi for his/her Model of a Skeleton (no link available anymore) - RFL
 - DJMaesen https://sketchfab.com/3d-models/crowbar-b8236043d6ca4d488b5bb36228460440 - CCA
