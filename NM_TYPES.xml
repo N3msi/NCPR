@@ -1,4 +1,4 @@
-﻿<!--Nemsis Craftingpack Redux start-->
+<!--Nemsis Craftingpack Redux start-->
 	<!--NCPR Core-->
 	<type name="nm_Notebook">
 		<nominal>35</nominal>
@@ -669,7 +669,15 @@
 		<lifetime>5600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
+	<type name="nm_impr_Sewingkit_rope">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
 	<type name="nm_impr_Leathersewingkit">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_impr_Leathersewingkit_rope">
 		<lifetime>5600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
@@ -1297,6 +1305,14 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+	</type>
+	<type name="nm_PlatecPouches_Brown">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="nm_PlatecHolster_Brown">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="nm_Tubepouch_Brown">
 		<nominal>3</nominal>
