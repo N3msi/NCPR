@@ -27,7 +27,9 @@ Contributers:
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
- 
+
+- neighbor for https://sketchfab.com/3d-models/deer-29b42ccfdb494968ae9dfa5a8cef0e79 - CCA
+- CtrlLight for https://sketchfab.com/3d-models/crossbow-gadget-0b57b66cb1fe4352a03826d24fa55ad1 - CCA
 - Montanaburbur for his/her Model of a Helmet (no link available anymore) - RFL
 - nowelbesi for his/her Model of a Skeleton (no link available anymore) - RFL
 - DJMaesen https://sketchfab.com/3d-models/crowbar-b8236043d6ca4d488b5bb36228460440 - CCA
