@@ -27,6 +27,8 @@ Contributers:
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
+
+- FourthGreen for https://sketchfab.com/3d-models/chicken-rig-b92464211274439b955700e3aa5c321f - CCA non-commercial
 - Danylo Tyupa for https://sketchfab.com/3d-models/sticksbranches-0b18f693f08d4cf1a9758a8f6a8573ab - CCA
 - Shedmon for https://sketchfab.com/3d-models/bag-on-the-head-a6dbfbaa4e5e4add8baa308c4459859d#download - CCA
 - neighbor for https://sketchfab.com/3d-models/deer-29b42ccfdb494968ae9dfa5a8cef0e79 - CCA
