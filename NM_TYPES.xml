@@ -1453,6 +1453,11 @@
 		<usage name="Town"/>
 		<usage name="Village"/>
 	</type>
+
+	<type name="nm_Trophyboard">
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
 	<type name="nm_OrgaSign_Base">
 		<lifetime>3888000</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="1" deloot="0"/>
