@@ -28,6 +28,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- hamidkhan224L for https://sketchfab.com/3d-models/gray-wolf-a2832b845e4e4edd9d439342cf4fd590 - CCA
 - VALIDOL for https://sketchfab.com/3d-models/mask-badly-8aa131c1a3c74b54a531b009c85a04ee - CCA
 - Everton Bohnenberger for https://sketchfab.com/3d-models/goat-skull-99b738abd7d34b27a38b363900856043 - CCA
 - Loïc Norgeot for https://sketchfab.com/3d-models/lowpoly-animal-skulls-1-2938b8237531482d9750ce2717fbe099 - CCA
