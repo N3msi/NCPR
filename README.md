@@ -12,12 +12,13 @@ Repacking in a servermod is allowed, but not recommended. You will miss updates 
 Leave a comment and give Credits if you do. Please also respect the Licences from the contributers below. 
 Info: 
 
-
+If you want to contact me, use this discord https://discord.gg/cyUVftXEdT
 
 Special thanks:
 
 - the Guys from the DayZ Modding Community for theire tutorials, help and Codesnippets, espacially CashewSan, Spurgle, Crazy Carl, Buddy, Munghard, Zenarchist and Wardog ♥
-- The Sammelbecken DayZ Community for testing and running this on theire live servers, espacially PhYsiO and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
+- The Sammelbecken DayZ Community, espacially PhYsiO and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
+- The Far From Sane Community, espacially Shoden ♥ ( visit them! https://discord.gg/Kre9geMXdc )
 - DaemonForge and Dumpgrahs for Reskin Manger - Weapons Editon ( https://steamcommunity.com/sharedfiles/filedetails/?id=2860838523&searchtext=color+weapons )
 - Room Service for Code Lock ( https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754 ) and letting me use some of his Code.
 
