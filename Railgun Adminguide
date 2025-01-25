@@ -1,0 +1,67 @@
+-------------
+Railgun Adminguide:
+-------------
+The Makeshift Railgun is a strong Rifle that keeps up with most Weaponmods. So for balancing and lore reasons it is not part of the types.xml and must be added separatly.
+
+
+
+For your types.xml:
+
+    <type name="nm_Railgun_fkd">  <!-- This needs to be found to craft the railgun -->
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>30</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+    <type name="nm_Railgun_Mag">  <!-- This only serves as ammosupply for the crafted railgun -->
+        <nominal>5</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>10</quantmin>
+        <quantmax>50</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+    <type name="nm_Ammo_RGBolt"> <!-- This only serves as ammosupply for the crafted railgun -->
+        <nominal>5</nominal>
+        <lifetime>28800</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>2</quantmin>
+        <quantmax>5</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+    <type name="nm_Railgun">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="nm_RGKit">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+    <type name="nm_RGParts">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>
+
+
+For your cfgspawnabletypes.xml:
+
+	  <type name="nm_Railgun_fkd">
+		  <damage min="0.45" max="0.85" />
+		  <attachments chance="0.50">
+			  <item name="nm_Railgun_Mag" chance="1.00" />
+		  </attachments>
+	  </type>
