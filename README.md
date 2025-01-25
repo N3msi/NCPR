@@ -28,6 +28,9 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Nedd_Nelson for https://sketchfab.com/3d-models/post-apocalyptic-mask-f91dcec5b53b49b0a0baea129cce4318 - CCA
+- Artem Goyko for https://sketchfab.com/3d-models/railgun-f9e6c944b99c4bb0b43fdd74c31a7577 - CCA non-commercial
+- JonasMedhus for https://sketchfab.com/3d-models/makeshift-railgun-db6907fe5c404460907c2efdd5036b73 - CCA
 - hamidkhan224L for https://sketchfab.com/3d-models/gray-wolf-a2832b845e4e4edd9d439342cf4fd590 - CCA
 - VALIDOL for https://sketchfab.com/3d-models/mask-badly-8aa131c1a3c74b54a531b009c85a04ee - CCA
 - Everton Bohnenberger for https://sketchfab.com/3d-models/goat-skull-99b738abd7d34b27a38b363900856043 - CCA
