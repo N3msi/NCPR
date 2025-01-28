@@ -42,6 +42,8 @@ Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 - Danylo Tyupa for https://sketchfab.com/3d-models/sticksbranches-0b18f693f08d4cf1a9758a8f6a8573ab - CCA
 - Shedmon for https://sketchfab.com/3d-models/bag-on-the-head-a6dbfbaa4e5e4add8baa308c4459859d#download - CCA
 - neighbor for https://sketchfab.com/3d-models/deer-29b42ccfdb494968ae9dfa5a8cef0e79 - CCA
+- Diegosabee for https://sketchfab.com/3d-models/exotraje-00be211db2174d99b13c0b4ccec16d42
+- iiii for https://sketchfab.com/3d-models/char001-86e3cda674214b2fb086b1ccf723d82a
 - CtrlLight for https://sketchfab.com/3d-models/crossbow-gadget-0b57b66cb1fe4352a03826d24fa55ad1 - CCA
 - Montanaburbur for his/her Model of a Helmet (no link available anymore) - RFL
 - nowelbesi for his/her Model of a Skeleton (no link available anymore) - RFL
