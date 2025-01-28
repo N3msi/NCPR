@@ -1,5 +1,37 @@
 ﻿<!--Nemsis Craftingpack Redux start-->
 	<!--NCPR Core-->
+	<type name="nm_MotoHelmet_Scarred_Yellow">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_Black">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_Grey">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_Green">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_Lime">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_Blue">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_Red">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_MotoHelmet_Scarred_White">
+		<lifetime>5600</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
 	<type name="nm_Scrap_Bttstck_Saiga">
 		<lifetime>5600</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
