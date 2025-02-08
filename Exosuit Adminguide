@@ -31,7 +31,7 @@ For your types.xml:
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-    <type name="nm_ExoPart3">  <!-- This needs to be found to craft the suit -->
+    <type name="nm_ExoPart3">  <!-- This needs to be found to turn on the suit -->
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
