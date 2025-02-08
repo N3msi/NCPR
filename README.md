@@ -29,6 +29,9 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Diegosabee for https://sketchfab.com/3d-models/exotraje-00be211db2174d99b13c0b4ccec16d42 - CCA
+- iiii for https://sketchfab.com/3d-models/char001-86e3cda674214b2fb086b1ccf723d82a - CCA
+- QuakeShambler for https://sketchfab.com/3d-models/l600-primary-fuel-cell-5b0dc6df49374923801a4ba395113528 - CCA
 - Davvre for https://sketchfab.com/3d-models/plastic-crate-7b9426222f0c4838bfbc13850095bb3f#download
 - Nedd_Nelson for https://sketchfab.com/3d-models/post-apocalyptic-mask-f91dcec5b53b49b0a0baea129cce4318 - CCA
 - Artem Goyko for https://sketchfab.com/3d-models/railgun-f9e6c944b99c4bb0b43fdd74c31a7577 - CCA non-commercial
