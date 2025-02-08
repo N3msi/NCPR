@@ -1,4 +1,7 @@
 ﻿<!--Nemsis Craftingpack Redux start-->
+
+	<!-- Optionally also add:  https://github.com/N3msi/NCPR/blob/main/Exosuit%20Adminguide & https://github.com/N3msi/NCPR/blob/main/Railgun%20Adminguide -->
+
 	<!--NCPR Core-->
 	<type name="nm_MotoHelmet_Scarred_Yellow">
 		<lifetime>5600</lifetime>
