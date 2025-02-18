@@ -1,4 +1,5 @@
-﻿<!--Nemsis Craftingpack Redux start-->
+<types>
+<!--Nemsis Craftingpack Redux start-->
 
 	<!-- Optionally also add:  https://github.com/N3msi/NCPR/blob/main/Exosuit%20Adminguide & https://github.com/N3msi/NCPR/blob/main/Railgun%20Adminguide -->
 
@@ -2326,3 +2327,4 @@
 		<usage name="Village"/>
 	</type>
 <!--Nemsis Craftingpack Redux end-->
+</types>
