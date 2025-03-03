@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="nm_Notebook">
+		<damage min="0.3" max="0.6" />
+		<cargo chance="0.01"> <item name="nm_Sketch_moli" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_paint" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_paint2" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_paint3" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_paint4" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_ammopacking" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_raider" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_armorupgrade" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_bc" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_bc2" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_camonet" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_sew" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_sew2" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_gore" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_gasm" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_NBC" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_herbs1" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_herbs2" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_herbs3" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_herbs4" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_splint" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_charcoal" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_antibio" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_raid" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_blowi" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_nails" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_sign" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_paintsign" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Fence" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Firekit" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Courir" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Fishing" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Ghillie" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Improcloth" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Splint" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Stoneknife" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_WoodenCase" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Explo" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_Vansketch_Trap" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_flex" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_flex2" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_bluntupgrade" /></cargo>		
+		<cargo chance="0.01"> <item name="nm_Sketch_improgren" /></cargo>	
+		<cargo chance="0.01"> <item name="nm_Sketch_writing" /></cargo>	
+	</type>	
+	<type name="nm_Airbrushkit">
+		<damage min="0.3" max="0.6" />
+		<cargo chance="0.4"> <item name="nm_Spraycan_wht" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_tan" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_bwn" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_blk" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_od" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_blu" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_red" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_ylw" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_pnk" /></cargo>		
+		<cargo chance="0.4"> <item name="nm_Spraycan_mix" /></cargo>		
+	</type>	
+	<type name="nm_AngleGrinder">
+		<damage min="0.3" max="0.6" />
+		<cargo chance="0.4"> <item name="nm_Powerpack" /></cargo>		
+	</type>		  
+	<type name="nm_Railgun_fkd">
+		  <damage min="0.45" max="0.85" />
+		  <attachments chance="0.50">
+			  <item name="nm_Railgun_Mag" chance="1.00" />
+		  </attachments>
+	</type>
+</spawnabletypes>
+	
