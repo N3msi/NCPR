@@ -1,10 +1,12 @@
--------------
+
+||||||||||||||||||||||||||||
 N3MSIS CRAFTINGPACK REDUX
+||||||||||||||||||||||||||||
+
 
 -------------
 Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2999980206
 -------------
-
 Mod is delivered "as is". No guarantees for compatibility with other Mods.
 And no 24/7 support, I´m a working man and this is just a hobby.
 
@@ -14,17 +16,26 @@ Info:
 
 If you want to contact me, use this discord https://discord.gg/cyUVftXEdT
 
-Special thanks:
+-------------
+Files:
+-------------
+- CodeLockConfig.json: for the Raid-Addon, this is a suggested file to make the Anglegrinder be able to destroy locks.
+- NM_CFGSPAWNABLETYPES.xml: for all addons, this makes items spawn filled with stuff like spraycans in the spraycanbox.
+- NM_TYPES.xml: for all addons, this makes some items spawn on the map and crafted items have lifetimes.
+- TOPTIER ADMINGUIDE: a guide on how to add balance-sensitive items like the exosuit on your servers.
 
+-------------
+Special thanks:
+-------------
 - the Guys from the DayZ Modding Community for theire tutorials, help and Codesnippets, espacially CashewSan, Spurgle, Crazy Carl, Buddy, Munghard, Zenarchist and Wardog ♥
 - The Sammelbecken DayZ Community, espacially PhYsiO and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
 - The Far From Sane Community, espacially Shoden ♥ ( visit them! https://discord.gg/Kre9geMXdc )
 - DaemonForge and Dumpgrahs for Reskin Manger - Weapons Editon ( https://steamcommunity.com/sharedfiles/filedetails/?id=2860838523&searchtext=color+weapons )
 - Room Service for Code Lock ( https://steamcommunity.com/sharedfiles/filedetails/?id=1646187754 ) and letting me use some of his Code.
 
-  
+-------------
 Contributers:
-
+-------------
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
