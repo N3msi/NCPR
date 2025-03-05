@@ -136,19 +136,6 @@
 			<item name="nm_Sketch_writing" chance="1.0" />
 		</attachments>
 	</type>	
-	<!--<type name="nm_Airbrushkit">
-		<damage min="0.3" max="0.6" />
-		<cargo chance="0.4"> <item name="nm_Spraycan_wht" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_tan" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_bwn" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_blk" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_od" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_blu" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_red" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_ylw" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_pnk" /></cargo>		
-		<cargo chance="0.4"> <item name="nm_Spraycan_mix" /></cargo>		
-	</type>	//-->
 	<type name="nm_Airbrushkit">
 		<!--<damage min="0.3" max="0.6" />-->
 		<attachments chance="0.4">
@@ -188,7 +175,6 @@
 		<attachments chance="0.4">
 			<item name="nm_Powerpack" chance="1.0" />
 		</attachments>
-		<!--<cargo chance="0.4"> <item name="nm_Powerpack" /></cargo>-->		
 	</type>		  
 	<type name="nm_Railgun_fkd">
 		  <damage min="0.45" max="0.85" />
