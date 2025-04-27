@@ -40,6 +40,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- David Wigforss for https://sketchfab.com/3d-models/pig-head-mask-eec0ae27eb08411e9818c002354d9c27 - CCA non-commercial
 - Dakota.Hinkle for https://sketchfab.com/3d-models/rabbit-073eef14ae3c4d06808498c3ba895e67 - CCA
 - Ruslan Koschey for https://sketchfab.com/3d-models/brass-knuckles-free-low-poly-2e38857639f5484d8e631b80dcb14c9e - CCA
 - RadTheZealot for https://sketchfab.com/3d-models/fluffy-tail-7b494eee97f9495ba9c9947da42a0d5b - CCA
