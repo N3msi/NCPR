@@ -4,6 +4,10 @@
 	<!-- Optionally also add:  https://github.com/N3msi/NCPR/blob/main/Exosuit%20Adminguide & https://github.com/N3msi/NCPR/blob/main/Railgun%20Adminguide -->
 
 	<!--NCPR Core-->
+	<type name="nm_craftbox">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
 	<type name="nm_chainsaw">
 		<nominal>25</nominal>
 		<lifetime>1800</lifetime>
@@ -697,19 +701,71 @@
 		<lifetime>28800</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
-	<type name="nm_HeavyPlatec_tan">
+	<type name="PlateCarrierVest_Black_nmupgraded">
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
-	<type name="nm_HeavyPlatec_od">
+	<type name="PlateCarrierVest_Green_nmupgraded">
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
-	<type name="nm_HeavyPlatec_blk">
+	<type name="PlateCarrierVest_Camo_nmupgraded">
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
-	<type name="nm_HeavyPlatec_camo">
+	<type name="SmershVest_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="PressVest_Blue_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="PressVest_LightBlue_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="UKAssVest_Black_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="UKAssVest_Camo_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="UKAssVest_Khaki_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="UKAssVest_Olive_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="UKAssVest_Winter_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="PoliceVest_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="HighCapacityVest_Black_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="HighCapacityVest_Olive_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="HuntingVest_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="HuntingVest_Winter_nmupgraded">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="ReflexVest_nmupgraded">
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
@@ -2190,6 +2246,11 @@
 	<type name="nm_Ammo_Scrapbolt">
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	
+	<type name="nm_craftbox_rg">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="nm_Scrapsuppressor">
 		<nominal>1</nominal>
