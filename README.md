@@ -40,6 +40,12 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Zuckergelee for https://sketchfab.com/3d-models/scrap-metal-lowpoly-439ed4e66a87433ca0a76b9351f91da7 CCA
+- Neslihan Çakmak for https://sketchfab.com/3d-models/tactical-vest-pack-7f9d15afae6c442b8f0cb306c456bc2d CCA
+- 3DHaupt for https://sketchfab.com/3d-models/animated-chainsaw-low-poly-free-download-1587c6a9f506407ca0512fe3122959f8 CCA non-commercial
+- Tanya Grimm for https://sketchfab.com/3d-models/pliers-the-stalin-factory-6bb55e4c18214a1196ba6e94aeaa06ac CCA
+- Suzukin_Keicar for https://sketchfab.com/3d-models/blue-plastic-box-fcb241daa50d4f7cab8a2dc3912830a6 CCA ShareAlike
+- Jan Keller for https://sketchfab.com/3d-models/dlt-19-blaster-rifle-modified-dlt-19s-6fd2620687a54ca88df009ef826cbf02 - CCA
 - freesound_community for Banjo Improv - RFL
 - nickpanek620 for Appalachian Blues Banjo Instrumental - RFL
 - alanajordan for Girl with a Banjo & Old Carolina - RFL
