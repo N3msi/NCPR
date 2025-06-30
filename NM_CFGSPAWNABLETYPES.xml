@@ -187,5 +187,11 @@
 		<item name="nm_Powerpack" chance="1.0" />
 		</attachments>
 	</type>	
+	<type name="nm_chainsaw">
+		<!--<damage min="0.3" max="0.6" />-->
+		<attachments chance="0.4">
+		<item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>	
 <!--Nemsis Craftingpack Redux end-->
 </spawnabletypes>
