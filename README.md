@@ -40,6 +40,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Cyril43 for https://sketchfab.com/3d-models/leather-belt-8cba1fb2d0b6442cb0b7aa903025676c - CCA
 - excelapocalypse for https://sketchfab.com/3d-models/post-apoc-dirk-c6af7db6b056428a903d857a07a8dccd - CCA
 - chrizp for https://sketchfab.com/3d-models/wrench-knife-5912e829df6b4610b6a046ea3609af18 - CCA
 - Alpha_Fox for https://sketchfab.com/3d-models/gear-axe-bd5278f75d974ef798de060cb4589867 - CCA
