@@ -40,6 +40,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- olmytro for https://sketchfab.com/3d-models/soldering-iron-6a80668e170647038fe1dcc4fe3ddcc3 - CCA
 - TegnoGenial for https://sketchfab.com/3d-models/lubricant-spray-132ed606637c4b609e3ed476daf2416d - CCA
 - SCANIMATE.IO for https://sketchfab.com/3d-models/pb109-stapler-low-9268eafc32e44e67a7386c4191983ddb - CCA
 - Cyril43 for https://sketchfab.com/3d-models/leather-belt-8cba1fb2d0b6442cb0b7aa903025676c - CCA
