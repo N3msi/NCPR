@@ -77,7 +77,10 @@
 		</attachments>	
 		<attachments chance="0.01">
 			<item name="nm_Sketch_blowi" chance="1.0" />
-		</attachments>		
+		</attachments>
+		<attachments chance="0.01">
+			<item name="nm_Sketch_banjo" chance="1.0" />
+		</attachments>	
 		<attachments chance="0.01">
 			<item name="nm_Sketch_nails" chance="1.0" />
 		</attachments>	
