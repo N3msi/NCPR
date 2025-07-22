@@ -64,6 +64,7 @@ Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 - freesound_community for Banjo Improv - RFL
 - nickpanek620 for Appalachian Blues Banjo Instrumental - RFL
 - alanajordan for Girl with a Banjo & Old Carolina - RFL
+- Raphael Escamilla for https://sketchfab.com/3d-models/custom-raft-a6fb7b6c2cb34d90be7d0674b8f1376a - CCA
 - 3DHaupt for https://sketchfab.com/3d-models/animated-chainsaw-low-poly-free-download-1587c6a9f506407ca0512fe3122959f8 - CCA non-commercial
 - David Wigforss for https://sketchfab.com/3d-models/pig-head-mask-eec0ae27eb08411e9818c002354d9c27 - CCA non-commercial
 - Dakota.Hinkle for https://sketchfab.com/3d-models/rabbit-073eef14ae3c4d06808498c3ba895e67 - CCA
