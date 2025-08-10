@@ -40,6 +40,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- VALIDOL for https://sketchfab.com/3d-models/sock-in-sandal-313db418155743dda0f834ca53dc4316 _CCA
 - scailman for https://sketchfab.com/3d-models/soapbox-car-a241904cfc8d4809a72b622a2f99fff8#download - CCA
 - NATOVIC_21 for https://sketchfab.com/3d-models/dirty-old-tires-a86d2a7608834bd8a37da313735b6772 - CCA
 - olmytro for https://sketchfab.com/3d-models/soldering-iron-6a80668e170647038fe1dcc4fe3ddcc3 - CCA
