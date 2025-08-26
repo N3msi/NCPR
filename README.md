@@ -40,7 +40,8 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
-
+- Oliver Triplett for https://sketchfab.com/3d-models/box-cutter-cleandirty-1ac2e75e247144eea1bf0294c884bd2d - CCA
+- Symeon3D for https://sketchfab.com/3d-models/human-ear-01-273589ce278946ac9a45f88c5e67a741 - CCA
 - DanlyVostok for https://sketchfab.com/3d-models/modern-pants-joggers-8f5d9d46bd514bcdbe3796225b838a52 - CCA
 - Vivek Thakur for https://sketchfab.com/3d-models/headband-79da856423aa40019ee177f8242c44f7 - CCA
 - VALIDOL for https://sketchfab.com/3d-models/sock-in-sandal-313db418155743dda0f834ca53dc4316 _CCA
