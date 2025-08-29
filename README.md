@@ -40,6 +40,8 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Venom1462 for https://sketchfab.com/3d-models/spiderman-paperbag-mask-6fba1398ad4b423191bdb843deee078d - CCA
+- ℜ𝔢𝔞𝔩 𝔖𝔩𝔦𝔪 𝔖𝔥𝔞𝔡𝔶 for https://sketchfab.com/3d-models/necklace-nails-3d-model-492ed96f748e4259bb0f53135d992d43 - CCA
 - Oliver Triplett for https://sketchfab.com/3d-models/box-cutter-cleandirty-1ac2e75e247144eea1bf0294c884bd2d - CCA
 - Symeon3D for https://sketchfab.com/3d-models/human-ear-01-273589ce278946ac9a45f88c5e67a741 - CCA
 - DanlyVostok for https://sketchfab.com/3d-models/modern-pants-joggers-8f5d9d46bd514bcdbe3796225b838a52 - CCA
