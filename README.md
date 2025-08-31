@@ -40,6 +40,8 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- The WarVet for https://sketchfab.com/3d-models/suppressors-10-pack-3a3c123f94a446589873b1d4df53c83c - CCA
+- T-Art for https://sketchfab.com/3d-models/bottle-of-water-48fd4f6e90d84d89b5740ee78587d0ff - CCA
 - Venom1462 for https://sketchfab.com/3d-models/spiderman-paperbag-mask-6fba1398ad4b423191bdb843deee078d - CCA
 - ℜ𝔢𝔞𝔩 𝔖𝔩𝔦𝔪 𝔖𝔥𝔞𝔡𝔶 for https://sketchfab.com/3d-models/necklace-nails-3d-model-492ed96f748e4259bb0f53135d992d43 - CCA
 - Oliver Triplett for https://sketchfab.com/3d-models/box-cutter-cleandirty-1ac2e75e247144eea1bf0294c884bd2d - CCA
