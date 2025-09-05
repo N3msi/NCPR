@@ -40,6 +40,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Multipainkiller Studio for https://sketchfab.com/3d-models/arm-guard-metal-21ad092149be4220bfe874aa4d562bca - CCA
 - GoldGryphon for https://sketchfab.com/3d-models/old-dirty-boots-6c3e11a9a9a845b7b8642f3080eef860 - CCA
 - Dumokan Art for https://sketchfab.com/3d-models/steampunk-brass-goggles-914a57e5f4614f718d85dafb0e82ca95 - CCA
 - The WarVet for https://sketchfab.com/3d-models/suppressors-10-pack-3a3c123f94a446589873b1d4df53c83c - CCA
