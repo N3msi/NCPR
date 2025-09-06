@@ -106,6 +106,7 @@ Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 - Montanaburbur for his/her Model of a Helmet (no link available anymore) - RFL
 - nowelbesi for his/her Model of a Skeleton (no link available anymore) - RFL
 - DJMaesen for https://sketchfab.com/3d-models/crowbar-b8236043d6ca4d488b5bb36228460440 - CCA
+- DJMaesen for https://sketchfab.com/3d-models/skull-b78e4e6b29b2430293edd9c99d88a64e - CCA
 - Andrew_Fox for https://sketchfab.com/3d-models/first-aid-ff57f112feb342aa9b87bf052e16f230 - CCA
 - maxarmstrong for https://sketchfab.com/3d-models/spraycan-70a43d0b870045dab780491067fa7b7e - CCA
 - Harri Snellman for https://sketchfab.com/3d-models/iron-mask-4d08ab96097b4938a14295001e91fd52 - CCA
