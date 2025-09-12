@@ -40,6 +40,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty 
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- Dillon Barba for https://sketchfab.com/3d-models/bear-trap-31a9de49370648cf999dac24962d7c81 - CCA
 - Mehdi Shahsavan FOR https://sketchfab.com/3d-models/cap-5-mb-0a1238d1cdbe4dc59bae48b4ff8cac30#download - CCA
 - Multipainkiller Studio for https://sketchfab.com/3d-models/arm-guard-metal-21ad092149be4220bfe874aa4d562bca - CCA
 - GoldGryphon for https://sketchfab.com/3d-models/old-dirty-boots-6c3e11a9a9a845b7b8642f3080eef860 - CCA
