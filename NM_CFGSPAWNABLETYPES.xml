@@ -34,6 +34,12 @@
 			<item name="nm_Sketch_bc2" chance="1.0" />
 		</attachments>		
 		<attachments chance="0.01">
+			<item name="nm_Sketch_bc3" chance="1.0" />
+		</attachments>		
+		<attachments chance="0.01">
+			<item name="nm_Sketch_bc4" chance="1.0" />
+		</attachments>		
+		<attachments chance="0.01">
 			<item name="nm_Sketch_camonet" chance="1.0" />
 		</attachments>		
 		<attachments chance="0.01">
