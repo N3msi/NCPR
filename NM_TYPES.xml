@@ -2856,13 +2856,37 @@
 		<usage name="Village"/>
 	</type>
 	<!--NCPR Vehicles-->
-	<type name="nm_RaftStage1">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-	</type>
 	<type name="nm_BuggyStage1">
-        <lifetime>3888000</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_BuggyStage2">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_BuggyStage3">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_BuggyStage4">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_RaftStage1">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_RaftStage2">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_RaftStage3">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	<type name="nm_RaftStage4">
+		<lifetime>28800</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
     <type name="nm_RaftConstruction_Kit">
         <lifetime>14400</lifetime>
@@ -2936,3 +2960,4 @@
 	</type>
 <!--Nemsis Craftingpack Redux end-->
 </types>
+
