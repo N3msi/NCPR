@@ -39,6 +39,7 @@ All linked models have been heavily modified for use with NCPR.
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
+- George B for https://sketchfab.com/3d-models/trash-bag-v2-free-9ef36ddf03bb4db99bc32a369cc2c871 - CCA
 - mirz1911 for https://sketchfab.com/3d-models/amg-compact-umbrella-4ecc7985e2b24547bc87245e4859c0f5 - CCA
 - Dillon Barba for https://sketchfab.com/3d-models/bear-trap-31a9de49370648cf999dac24962d7c81 - CCA
 - Mehdi Shahsavan FOR https://sketchfab.com/3d-models/cap-5-mb-0a1238d1cdbe4dc59bae48b4ff8cac30#download - CCA
