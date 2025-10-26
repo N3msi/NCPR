@@ -17,6 +17,34 @@
         <usage name="Military"/>
         <value name="Tier3"/>
         <value name="Tier4"/>
+    </type>	
+    <type name="nm_Military_Poncho_b">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>	
+    <type name="nm_Military_Poncho_c">
+        <nominal>5</nominal>
+        <lifetime>14400</lifetime>
+        <restock>1800</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>
     <type name="nm_trashbag">
         <nominal>40</nominal>
@@ -36,10 +64,18 @@
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>	
-	<type name="nm_Tarp_Poncho">
+	<type name="nm_umbrella_trash">
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
+	<type name="nm_umbrella_tarp">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>	
+	<type name="nm_Trashbag_Poncho">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>	
     <type name="nm_umbrella_red_folded">
         <nominal>12</nominal>
         <lifetime>14400</lifetime>
@@ -3052,6 +3088,7 @@
 	</type>
 <!--Nemsis Craftingpack Redux end-->
 </types>
+
 
 
 
