@@ -35,7 +35,8 @@ Special thanks:
 -------------
 Contributers:
 -------------
-All linked models have been heavily modified for use with NCPR.
+All used models have been heavily modified for use with NCPR.
+
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free Royalty Free License (RFL) 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution(CCA)
 
