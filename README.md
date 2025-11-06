@@ -41,6 +41,8 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Milch Frische for https://sketchfab.com/3d-models/soviet-ammo-box-a8de2fd4e70b4c7eb721debadc87ba7d - CCA
+- GumEater for https://sketchfab.com/3d-models/kodak-film-package-c20d408520124545babd9aecfaf43519 - CCA
 - Kai Xiang for https://sketchfab.com/3d-models/assorted-cartridges-5bbe41ff8c7942899a24a6c8b33590ba - CCA
 - SuperMopsek for https://sketchfab.com/3d-models/dynamo-handheld-flashlight-a78554bd18924d148f24b1575833fcf5 - CCA
 - George B for https://sketchfab.com/3d-models/trash-bag-v2-free-9ef36ddf03bb4db99bc32a369cc2c871 - CCA
