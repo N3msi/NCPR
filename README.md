@@ -22,6 +22,7 @@ Files:
 - NM_CFGSPAWNABLETYPES.xml: for all addons, this makes items spawn filled with stuff like spraycans in the spraycanbox.
 - NM_TYPES.xml: for all addons, this makes some items spawn on the map and crafted items have lifetimes.
 - TOPTIER ADMINGUIDE: a guide on how to add balance-sensitive items like the exosuit on your servers.
+- AMMOCRAFTING ADMINGUIDE.txt: look into it if you want to spawn ammo crafting ingredients directly with types.xml
 
 -------------
 Special thanks:
