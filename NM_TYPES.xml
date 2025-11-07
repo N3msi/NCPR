@@ -1,7 +1,7 @@
 <types>
 <!--Nemsis Craftingpack Redux start-->
 
-	<!-- Optionally also add:  https://github.com/N3msi/NCPR/blob/main/TOPTIER%20ADMINGUIDE.txt -->
+	<!-- Optionally also add:  https://github.com/N3msi/NCPR/blob/main/TOPTIER%20ADMINGUIDE.txt / https://github.com/N3msi/NCPR/blob/main/AMMOCRAFTING%20ADMINGUIDE.txt -->
 
 	<!--NCPR Core-->
     <type name="nm_Military_Poncho">
@@ -3138,6 +3138,7 @@
 	</type>
 <!--Nemsis Craftingpack Redux end-->
 </types>
+
 
 
 
