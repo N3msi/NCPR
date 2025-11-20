@@ -1,8 +1,8 @@
 -------------
 Ammocrafting Adminguides
 -------------
-Ingredients for crafting ammo if you want to directly spawn them. Not part of the regular types as it can clutter your server.
-You should only add the boxes you need as there are also ingredients for mod caliber in here ( Morty/Snafu/Ammoexpansion/DayZexpansion ).
+These are ingredients for crafting ammo you can use if you want to directly spawn them. Not part of the regular types as it can clutter your server.
+You should only add the boxes you need as there are also ingredients for mod calibers in here ( Morty/Snafu/Ammoexpansion/DayZexpansion ).
 This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained from crafting.
 
 <!-- Vanilla -->
@@ -11,8 +11,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
-        <quantmin>65</quantmin>
-        <quantmax>100</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -23,8 +23,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -35,8 +35,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -47,8 +47,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -59,8 +59,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -71,8 +71,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -83,8 +83,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -95,8 +95,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -107,8 +107,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -119,8 +119,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -131,8 +131,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -143,8 +143,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -155,8 +155,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -167,8 +167,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -179,8 +179,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -191,8 +191,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -203,8 +203,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -215,8 +215,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -227,8 +227,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -239,8 +239,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -251,8 +251,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -263,8 +263,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -275,8 +275,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -287,8 +287,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -299,8 +299,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -311,8 +311,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -323,8 +323,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -335,8 +335,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -348,8 +348,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -360,8 +360,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -372,8 +372,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -384,8 +384,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -396,8 +396,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -408,8 +408,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -420,8 +420,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -432,8 +432,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -444,8 +444,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -456,8 +456,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -468,8 +468,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -480,8 +480,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -492,8 +492,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -504,8 +504,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -516,8 +516,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -528,8 +528,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -540,8 +540,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -552,8 +552,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -564,8 +564,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -576,8 +576,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -588,8 +588,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -600,8 +600,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -612,8 +612,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -624,8 +624,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -636,8 +636,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -648,8 +648,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -660,8 +660,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -672,8 +672,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -684,8 +684,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -696,8 +696,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -708,8 +708,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -720,8 +720,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -732,8 +732,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -744,8 +744,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -756,8 +756,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -768,8 +768,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -780,8 +780,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -792,8 +792,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -804,8 +804,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -816,8 +816,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
@@ -828,8 +828,8 @@ This is purely optional as Projectiles/Gunpowder/Cartridges can also be obtained
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>1</min>
-        <quantmin>5</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
