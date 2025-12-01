@@ -42,6 +42,8 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Valo Niskanen for https://sketchfab.com/3d-models/folded-newspaper-8f2a04cbcf3741088978399924b46a92 - CCA non-commercial
+- excelapocalypse for https://sketchfab.com/3d-models/post-apoc-blades-modular-machetes-c3861d1628fa4faa9ebd8dc6327725c0 - CCA
 - Milch Frische for https://sketchfab.com/3d-models/soviet-ammo-box-a8de2fd4e70b4c7eb721debadc87ba7d - CCA
 - GumEater for https://sketchfab.com/3d-models/kodak-film-package-c20d408520124545babd9aecfaf43519 - CCA
 - Kai Xiang for https://sketchfab.com/3d-models/assorted-cartridges-5bbe41ff8c7942899a24a6c8b33590ba - CCA
