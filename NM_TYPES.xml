@@ -539,6 +539,22 @@
 		<usage name="Village"/>
 		<usage name="Town"/>
 	</type>
+	<type name="nm_waterproofer">
+		<nominal>40</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>30</min>
+		<quantmin>30</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<tag name="floor"/>
+		<usage name="Industrial"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
 	<type name="nm_Cullet">
 		<nominal>40</nominal>
 		<lifetime>1800</lifetime>
@@ -1635,10 +1651,6 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
-	</type>
-	<type name="nm_ScrapLamp_norag">
-		<lifetime>14400</lifetime>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_banjo">
 		<nominal>1</nominal>
@@ -3170,6 +3182,7 @@
 	</type>
 <!--Nemsis Craftingpack Redux end-->
 </types>
+
 
 
 
