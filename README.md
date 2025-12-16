@@ -42,6 +42,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- NanouJune for https://sketchfab.com/3d-models/stuff-b1865d79e2ae495ba1951908418f6175 - CCA
 - Jawlex for https://sketchfab.com/3d-models/spray-bottle-c96e2e8cb22e4b71a0944f84b365217a - Free Standard
 - Valo Niskanen for https://sketchfab.com/3d-models/folded-newspaper-8f2a04cbcf3741088978399924b46a92 - CCA non-commercial
 - excelapocalypse for https://sketchfab.com/3d-models/post-apoc-blades-modular-machetes-c3861d1628fa4faa9ebd8dc6327725c0 - CCA
