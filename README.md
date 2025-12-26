@@ -42,6 +42,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Rectro for https://sketchfab.com/3d-models/safety-headphones-b3005b265c6a48fdbac4d5acb00774ea - CCA
 - Arsen Ismailov for https://sketchfab.com/3d-models/headphones-high-and-low-poly-be696bce721c434d9dd9a7655ad74b74 - CCA
 - NanouJune for https://sketchfab.com/3d-models/stuff-b1865d79e2ae495ba1951908418f6175 - CCA
 - Jawlex for https://sketchfab.com/3d-models/spray-bottle-c96e2e8cb22e4b71a0944f84b365217a - Free Standard
