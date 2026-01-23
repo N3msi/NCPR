@@ -42,6 +42,14 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Slepa for https://sketchfab.com/3d-models/rebars-aa80de20c90341d987129504d3cc4924 - CCA
+- plaggy for https://sketchfab.com/3d-models/cc0-air-freshener-lime-929a503b845d42918d1fbc372dbf33d0 - CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+- rogozhko for https://sketchfab.com/3d-models/dices-ac93361d354144fcbc9ea13c6bf9e11b - CCA
+- Bindestrek for https://sketchfab.com/3d-models/huladoll-9363daaff4f14a5cadf61e6ed0b47e87 - CCA
+- squishynoize for https://sketchfab.com/3d-models/cat-lucky-0aeba0a56d414a6bb1865cf3375aef6b - CCA
+- David Wigforss for https://sketchfab.com/3d-models/dachschund-4th-of-july-59c2d90cc51f4dcb896ecff32c02501b - CCA non-commercial
+- C.U.V. for https://sketchfab.com/3d-models/plush-unicorn-fd6f044ab8164a7e947f69fbe58435ee - CCA
+- KangaroOz 3D for https://sketchfab.com/3d-models/electric-guitar-4142c4c8d5b8439eb40f68680f265df9 - CCA non-commercial
 - Rectro for https://sketchfab.com/3d-models/safety-headphones-b3005b265c6a48fdbac4d5acb00774ea - CCA
 - Arsen Ismailov for https://sketchfab.com/3d-models/headphones-high-and-low-poly-be696bce721c434d9dd9a7655ad74b74 - CCA
 - NanouJune for https://sketchfab.com/3d-models/stuff-b1865d79e2ae495ba1951908418f6175 - CCA
