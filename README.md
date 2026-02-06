@@ -27,7 +27,7 @@ Files:
 -------------
 Special thanks:
 -------------
-- the Guys from the DayZ Modding Community for theire tutorials, help and Codesnippets, espacially CashewSan, Spurgle, Crazy Carl, Buddy, Munghard, Zenarchist and Wardog ♥
+- the Guys from the DayZ Modding Community for theire tutorials and help, espacially its_a_tree, Crazy Carl, Wardog, Spurgle, Shaggoth, Zenarchist, Buddy & Munghard ♥
 - The Sammelbecken DayZ Community, espacially PhYsiO and BamBam ♥ ( visit them! https://discord.gg/cyUVftXEdT )
 - The Far From Sane Community, espacially Shoden ♥ ( visit them! https://discord.gg/Kre9geMXdc )
 - DaemonForge and Dumpgrahs for Reskin Manger - Weapons Editon ( https://steamcommunity.com/sharedfiles/filedetails/?id=2860838523&searchtext=color+weapons )
