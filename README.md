@@ -42,6 +42,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Mehdi Shahsavan for https://sketchfab.com/3d-models/barbed-wire-wooden-9mb-2part-0b8ae84babcf402ebc55e1b55d4a84a3 - CCA
 - vscerkez for https://sketchfab.com/3d-models/portable-spike-barrier-5a1a0fdb42464692aa6f5af750fad64d - CCA
 - felipegall for https://sketchfab.com/3d-models/punk-boy-e5bfcf4eacdf418882f9cb4948d61faa - CCA
 - Glowbox 3D for https://sketchfab.com/3d-models/ashtray-used-e15c6a08493a495f99970bc2e951083a - CCA
