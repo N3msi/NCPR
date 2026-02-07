@@ -1881,6 +1881,10 @@
 		<usage name="Industrial"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
+	</type>	
+	<type name="nm_banjo_melee">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
 	<type name="nm_banjo">
 		<nominal>1</nominal>
@@ -3701,6 +3705,7 @@
 	</type>
 <!--Nemsis Craftingpack Redux end-->
 </types>
+
 
 
 
