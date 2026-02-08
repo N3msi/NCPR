@@ -4,6 +4,20 @@
 	<!-- Optionally also add:  https://github.com/N3msi/NCPR/blob/main/TOPTIER%20ADMINGUIDE.txt / https://github.com/N3msi/NCPR/blob/main/AMMOCRAFTING%20ADMINGUIDE.txt -->
 
 	<!--NCPR Core-->
+	<type name="nm_portablebbq">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+    </type>
     <type name="nm_doll_punk">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
@@ -229,18 +243,16 @@
         <value name="Tier4"/>
     </type>
       <type name="nm_trashbag">
-        <nominal>40</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>30</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>30</quantmin>
+        <quantmax>70</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
-        <usage name="Industrial"/>
-        <usage name="Village"/>
+		<category name="tools"/>
+        <usage name="Town"/>
     </type>
 	<type name="nm_Trashbag_Poncho">
 		<lifetime>14400</lifetime>
@@ -721,19 +733,18 @@
 		<usage name="Town"/>
 	</type>
 	<type name="nm_waterproofer">
-		<nominal>20</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>30</min>
-		<quantmin>30</quantmin>
-		<quantmax>100</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>30</min>
+        <quantmin>30</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="tools"/>
-		<usage name="Industrial"/>
+        <usage name="Hunting"/>
 		<usage name="Farm"/>
 		<usage name="Village"/>
-		<usage name="Town"/>
 	</type>
 	<type name="nm_Cullet">
 		<nominal>40</nominal>
@@ -3705,6 +3716,7 @@
 	</type>
 <!--Nemsis Craftingpack Redux end-->
 </types>
+
 
 
 
