@@ -42,6 +42,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- HichamSvr for https://sketchfab.com/3d-models/headlight-lamp-521e4ca03ea64dfcacfe4a3e24541090 - CCA
 - Blorgins for https://sketchfab.com/3d-models/thread-spool-on-paper-card-28367f831daa4b34ab0cff382dc85a03 - Free Standard
 - patrakeevasveta for https://sketchfab.com/3d-models/barbecue-59563705c8a34eefafa177d8d22f35c5 - CCA
 - Mehdi Shahsavan for https://sketchfab.com/3d-models/barbed-wire-wooden-9mb-2part-0b8ae84babcf402ebc55e1b55d4a84a3 - CCA
