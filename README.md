@@ -42,7 +42,8 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
--  Prashant Yadav for https://sketchfab.com/3d-models/cvc-tanker-helmet-6b130a20044148519253b092a4d874ad - CCA
+- FelikinRuslan for https://sketchfab.com/3d-models/helmet-afad45df70744ba29266dbe241e78fa5 - CCA
+- Prashant Yadav for https://sketchfab.com/3d-models/cvc-tanker-helmet-6b130a20044148519253b092a4d874ad - CCA
 - HichamSvr for https://sketchfab.com/3d-models/headlight-lamp-521e4ca03ea64dfcacfe4a3e24541090 - CCA
 - Blorgins for https://sketchfab.com/3d-models/thread-spool-on-paper-card-28367f831daa4b34ab0cff382dc85a03 - Free Standard
 - patrakeevasveta for https://sketchfab.com/3d-models/barbecue-59563705c8a34eefafa177d8d22f35c5 - CCA
