@@ -42,6 +42,9 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- TommyM for https://sketchfab.com/3d-models/dress-aa71a88c6ef1465eb6f232b3263cd7f9 - CCA
+- Ali Şahan Yalçın for https://sketchfab.com/3d-models/woman-dress-2-750b068dfbcf4a27932ea3d3f742ab9b - CCA
+- SimplyK for https://sketchfab.com/3d-models/soviet-ssh-60-13ab594b900342b8814c101568c8dc4f - CCA
 - FelikinRuslan for https://sketchfab.com/3d-models/helmet-afad45df70744ba29266dbe241e78fa5 - CCA
 - Prashant Yadav for https://sketchfab.com/3d-models/cvc-tanker-helmet-6b130a20044148519253b092a4d874ad - CCA
 - HichamSvr for https://sketchfab.com/3d-models/headlight-lamp-521e4ca03ea64dfcacfe4a3e24541090 - CCA
