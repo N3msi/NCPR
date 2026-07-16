@@ -42,6 +42,9 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- masirez for https://pixabay.com/de/sound-effects/film-spezialeffekte-arrow-release-from-bow-sound-effect-string-snap-and-projectile-304271/
+- FLORAPHONIC FOR https://pixabay.com/de/sound-effects/film-spezialeffekte-rope-tighten-knot-7-199786/
+- GAMICO for https://sketchfab.com/3d-models/wooden-bow-realistic-game-ready-3d-model-c65413f479804ca2b627a825ce450a74 - CCA
 - TommyM for https://sketchfab.com/3d-models/dress-aa71a88c6ef1465eb6f232b3263cd7f9 - CCA
 - Ali Şahan Yalçın for https://sketchfab.com/3d-models/woman-dress-2-750b068dfbcf4a27932ea3d3f742ab9b - CCA
 - SimplyK for https://sketchfab.com/3d-models/soviet-ssh-60-13ab594b900342b8814c101568c8dc4f - CCA
