@@ -42,6 +42,10 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- forquare for https://pixabay.com/de/sound-effects/film-spezialeffekte-bottle-98065/
+- 666HeroHero for https://pixabay.com/de/sound-effects/film-spezialeffekte-uncork-bottle-149691/
+- Leonlline for https://sketchfab.com/3d-models/stylized-crossbow-33b43e871ffa4383bb920ee03b2e1f0b - CCA
+- Horizzon for https://sketchfab.com/3d-models/harpoon-rifle-5456adeff51947d5bf66a4563bb3821f - CCA
 - masirez for https://pixabay.com/de/sound-effects/film-spezialeffekte-arrow-release-from-bow-sound-effect-string-snap-and-projectile-304271/
 - FLORAPHONIC FOR https://pixabay.com/de/sound-effects/film-spezialeffekte-rope-tighten-knot-7-199786/
 - GAMICO for https://sketchfab.com/3d-models/wooden-bow-realistic-game-ready-3d-model-c65413f479804ca2b627a825ce450a74 - CCA
