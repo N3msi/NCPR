@@ -39,9 +39,9 @@ Contributers:
 All used models have been heavily modified for use with NCPR.
 
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
-
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Amelia Rubin for https://sketchfab.com/3d-models/opinel-pocket-knife-fd1a172bbbb547e690fc7aae71abc709 - CCA
 - Jorge.Figueroa for https://sketchfab.com/3d-models/brocal-quadra-jar-978cc1d106b04c6791ae45aab557f909 - CCA
 - Nazareno_rojas for https://sketchfab.com/3d-models/apocalyptic-flamethrower-3f3ed85845574db48b4c943161469d14 - CCA
 - forquare for https://pixabay.com/de/sound-effects/film-spezialeffekte-bottle-98065/
