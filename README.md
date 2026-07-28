@@ -41,6 +41,7 @@ All used models have been heavily modified for use with NCPR.
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- Universfield for https://pixabay.com/de/sound-effects/film-spezialeffekte-whip-crack-02-244949/
 - Osian CG for https://sketchfab.com/3d-models/flint-steel-182d712130804df8ac9b1343e9a1d127 - CCA
 - Amelia Rubin for https://sketchfab.com/3d-models/opinel-pocket-knife-fd1a172bbbb547e690fc7aae71abc709 - CCA
 - Jorge.Figueroa for https://sketchfab.com/3d-models/brocal-quadra-jar-978cc1d106b04c6791ae45aab557f909 - CCA
