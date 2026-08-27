@@ -41,6 +41,20 @@ All used models have been heavily modified for use with NCPR.
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+
+- kayumov127 for https://sketchfab.com/3d-models/package-1c93fee79a494a0c9c37d043c1a50e4c - CCA
+- thethieme for https://sketchfab.com/3d-models/homemade-gun-25bca56161fd42f9b165590607d20570 - CCA
+- BRAIN_ZIP for https://sketchfab.com/3d-models/post-apocalyptic-weapon-6a345a9571f04323a4c35a52888ca187 - CCA
+- Harsh Singh for https://sketchfab.com/3d-models/bulldog-gun-1e2aa9aecbc2430ea96e8b4c5e0eca5c - CCA
+- Ricardo Sanchez for https://sketchfab.com/3d-models/homemade-gun-81372c224d6f48c29005f0383f788148 - CCA
+- Johnathon Goswick for https://sketchfab.com/3d-models/308-machine-gun-4ca5f52eef6244629770c56752b67583 - CCA
+- BaderBlade for https://sketchfab.com/3d-models/homemade-smg-cb9fb4e95b2b4bd381c718ba1ff12ba8 - CCA
+- cherry_bomb for https://sketchfab.com/3d-models/old-gun-a81c49092bba4605ab879b90d5cb1e97 - CCA
+- veter12131 for https://sketchfab.com/3d-models/homemade-smg-7663ba7c28294519813fab77855b7c22 - CCA
+- mickeymoose1204 for https://sketchfab.com/3d-models/rusty-pistol-11a9317d722845f7b49f37759d2175e3 - CCA
+- satya1310 for https://sketchfab.com/3d-models/diy-smg-5f7911859ca64980a4d07fbd90de70c4 - CCA
+- minhnguyen2k for https://sketchfab.com/3d-models/spas-12-apocalypse-d28eedb69ccd4ad4a27396d301e07eaa - CCA
+- Vasily for https://sketchfab.com/3d-models/p-a-lutys-submachine-gun-2ebfceb201a841e48c0b200928ca07dc - CCA
 - Universfield for https://pixabay.com/de/sound-effects/film-spezialeffekte-whip-crack-02-244949/
 - Osian CG for https://sketchfab.com/3d-models/flint-steel-182d712130804df8ac9b1343e9a1d127 - CCA
 - Amelia Rubin for https://sketchfab.com/3d-models/opinel-pocket-knife-fd1a172bbbb547e690fc7aae71abc709 - CCA
