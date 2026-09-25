@@ -41,6 +41,7 @@ All used models have been heavily modified for use with NCPR.
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 
+- dark_igorek for https://sketchfab.com/3d-models/road-warrior-b9c94ae2d24740f88d679b059efa75b6 - CCA
 - takeboncog for https://sketchfab.com/3d-models/military-stove-0383483530294083b294e0747c601a75 - CCA
 - kayumov127 for https://sketchfab.com/3d-models/package-1c93fee79a494a0c9c37d043c1a50e4c - CCA
 - thethieme for https://sketchfab.com/3d-models/homemade-gun-25bca56161fd42f9b165590607d20570 - CCA
