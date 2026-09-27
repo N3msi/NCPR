@@ -1376,6 +1376,20 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="tools"/>
     </type>
+	<type name="nm_Sketch_collector">
+		<nominal>2</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+	</type>
 	<type name="nm_Sketch_bc">
 		<nominal>2</nominal>
 		<lifetime>1800</lifetime>
@@ -1436,7 +1450,7 @@
 		<lifetime>14400</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
 	</type>
-	<!--Set NCPR_BUSHCRAFTING_craft_hollowstump 0 if you want to remove stumps-->
+	<!--Set NCPR_BUSHCRAFTING_craft_hollowstump 0 and remove lifetimes here if you want to remove stumps-->
 	<type name="nm_Treestump_hollow">
 		<lifetime>3888000</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -2858,7 +2872,7 @@
 	</type>
     <type name="nm_IncendiaryGren">
         <nominal>2</nominal>
-        <lifetime>28800</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>30</quantmin>
