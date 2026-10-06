@@ -40,7 +40,10 @@ All used models have been heavily modified for use with NCPR.
 
 Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
+Pixabay Licence (PL) https://pixabay.com/de/service/license-summary/
 
+- andrewhuebner for https://sketchfab.com/3d-models/stun-gun-d14c9ab529f4422f991e41bbad4e4a18 - CCA
+- pyr0x for https://pixabay.com/de/sound-effects/film-spezialeffekte-electric-sparker-33181/ - PL
 - dark_igorek for https://sketchfab.com/3d-models/road-warrior-b9c94ae2d24740f88d679b059efa75b6 - CCA
 - takeboncog for https://sketchfab.com/3d-models/military-stove-0383483530294083b294e0747c601a75 - CCA
 - kayumov127 for https://sketchfab.com/3d-models/package-1c93fee79a494a0c9c37d043c1a50e4c - CCA
@@ -56,16 +59,16 @@ Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 - satya1310 for https://sketchfab.com/3d-models/diy-smg-5f7911859ca64980a4d07fbd90de70c4 - CCA
 - minhnguyen2k for https://sketchfab.com/3d-models/spas-12-apocalypse-d28eedb69ccd4ad4a27396d301e07eaa - CCA
 - Vasily for https://sketchfab.com/3d-models/p-a-lutys-submachine-gun-2ebfceb201a841e48c0b200928ca07dc - CCA
-- Universfield for https://pixabay.com/de/sound-effects/film-spezialeffekte-whip-crack-02-244949/
+- Universfield for https://pixabay.com/de/sound-effects/film-spezialeffekte-whip-crack-02-244949/ - PL
 - Osian CG for https://sketchfab.com/3d-models/flint-steel-182d712130804df8ac9b1343e9a1d127 - CCA
 - Amelia Rubin for https://sketchfab.com/3d-models/opinel-pocket-knife-fd1a172bbbb547e690fc7aae71abc709 - CCA
 - Jorge.Figueroa for https://sketchfab.com/3d-models/brocal-quadra-jar-978cc1d106b04c6791ae45aab557f909 - CCA
 - Nazareno_rojas for https://sketchfab.com/3d-models/apocalyptic-flamethrower-3f3ed85845574db48b4c943161469d14 - CCA
-- forquare for https://pixabay.com/de/sound-effects/film-spezialeffekte-bottle-98065/
-- 666HeroHero for https://pixabay.com/de/sound-effects/film-spezialeffekte-uncork-bottle-149691/
+- forquare for https://pixabay.com/de/sound-effects/film-spezialeffekte-bottle-98065/ - PL
+- 666HeroHero for https://pixabay.com/de/sound-effects/film-spezialeffekte-uncork-bottle-149691/ - PL
 - Leonlline for https://sketchfab.com/3d-models/stylized-crossbow-33b43e871ffa4383bb920ee03b2e1f0b - CCA
 - Horizzon for https://sketchfab.com/3d-models/harpoon-rifle-5456adeff51947d5bf66a4563bb3821f - CCA
-- masirez for https://pixabay.com/de/sound-effects/film-spezialeffekte-arrow-release-from-bow-sound-effect-string-snap-and-projectile-304271/
+- masirez for https://pixabay.com/de/sound-effects/film-spezialeffekte-arrow-release-from-bow-sound-effect-string-snap-and-projectile-304271/ - PL
 - FLORAPHONIC FOR https://pixabay.com/de/sound-effects/film-spezialeffekte-rope-tighten-knot-7-199786/
 - GAMICO for https://sketchfab.com/3d-models/wooden-bow-realistic-game-ready-3d-model-c65413f479804ca2b627a825ce450a74 - CCA
 - TommyM for https://sketchfab.com/3d-models/dress-aa71a88c6ef1465eb6f232b3263cd7f9 - CCA
