@@ -42,6 +42,7 @@ Royalty Free License (RFL) : https://en.wikipedia.org/wiki/Royalty-free
 Creative Commons Attribution(CCA) : https://creativecommons.org/licenses/by/4.0/
 Pixabay Licence (PL) https://pixabay.com/de/service/license-summary/
 
+- BenDodd for https://sketchfab.com/3d-models/spotlights-fe008fe860684a34bfb2ec7533ad98fa - CCA
 - Nyilonelycompany for https://sketchfab.com/3d-models/komodo-dragon-lizard-f4c8b2accf50495db3d64ca583f2a148 - FreeStandart
 - Joseph AYYAD for https://sketchfab.com/3d-models/pitbull-2be37d5b9f754ed4bcc2d8f41b23a1d7 - CCA
 - evolveduk for https://sketchfab.com/3d-models/coconut-palm-26e787f2ff2e4c0fb004c3b0210805a3 - CCA
